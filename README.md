@@ -28,8 +28,9 @@ The project code is written as a **Python script** (`main.py`) and can be run di
 ```bash
 git clone https://github.com/seymanrcn/Pusula_Seyma_Nur_Cin.git
 
-Make sure you have the required packages installed:
+2.Make sure you have the required packages installed:
 pip install pandas numpy matplotlib seaborn scikit-learn rapidfuzz openpyxl
+pip install -r requirements.txt
 
 Run the main script:
 python main.py
@@ -49,3 +50,4 @@ Pusula_Seyma_Nur_Cin/
 │
 ├─ main.py                    # Python script with EDA and preprocessing
 ├─ README.md                  # This file
+└─ requirements.txt
