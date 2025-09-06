@@ -42,6 +42,7 @@ Perform EDA (visualizations and summaries)
 Clean and preprocess the data (handle missing values, encode categorical variables, normalize numeric features)
 Save the cleaned dataset if needed
 
+
 Project Structure
 Pusula_Seyma_Nur_Cin/
 │
@@ -50,5 +51,5 @@ Pusula_Seyma_Nur_Cin/
 │
 ├─ main.py                    # Python script with EDA and preprocessing
 ├─ README.md                  # This file
-├─
+├─ Report_Seyma_Nur_Cin.pdf   # Report File
 └─ requirements.txt
