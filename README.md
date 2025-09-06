@@ -50,4 +50,5 @@ Pusula_Seyma_Nur_Cin/
 │
 ├─ main.py                    # Python script with EDA and preprocessing
 ├─ README.md                  # This file
+├─
 └─ requirements.txt
